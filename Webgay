@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+
+read -p "Enter your name please: " name
+
+echo "Hello there $name"
+
+sleep 2
+
+echo "Your mom is a gerbal"
+
+
